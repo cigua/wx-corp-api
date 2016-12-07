@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f698e26-321e-4f84-8df3-cd3bb0241470" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/URI.php" afterPath="$PROJECT_DIR$/src/URI.php" />
+    </list>
+    <ignored path="WxCorpApi.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="WxCorpApi" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Agent.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Manage/Agent.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+              <folding>
+                <element signature="e#35#57#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Uri.php" />
+        <option value="$PROJECT_DIR$/src/Traits.php" />
+        <option value="$PROJECT_DIR$/src/RespXML.php" />
+        <option value="$PROJECT_DIR$/src/Message.php" />
+        <option value="$PROJECT_DIR$/src/Manager.php" />
+        <option value="$PROJECT_DIR$/src/Exception.php" />
+        <option value="$PROJECT_DIR$/src/Base.php" />
+        <option value="$PROJECT_DIR$/src/Manage/User.php" />
+        <option value="$PROJECT_DIR$/src/Manage/Media.php" />
+        <option value="$PROJECT_DIR$/src/Manage/Material.php" />
+        <option value="$PROJECT_DIR$/src/Manage/Depart.php" />
+        <option value="$PROJECT_DIR$/src/Manage/Agent.php" />
+        <option value="$PROJECT_DIR$/src/Kf/Internal.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1554" />
+    <option name="height" value="916" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WxCorpApi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WxCorpApi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WxCorpApi" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WxCorpApi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WxCorpApi" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WxCorpApi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WxCorpApi" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Manage" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WxCorpApi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WxCorpApi" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Kf" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f698e26-321e-4f84-8df3-cd3bb0241470" name="Default" comment="" />
+      <created>1481073892473</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1481073892473</updated>
+      <workItem from="1481073893755" duration="1329000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1329000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1554" height="916" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496749" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="52">
+            <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Uri.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+          <folding>
+            <marker date="1481074005222" expanded="true" signature="41:2991" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RespXML.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <marker date="1481074050670" expanded="true" signature="41:3215" ph="{...}" />
+            <marker date="1481074050670" expanded="true" signature="48:78" ph=" @var string 企业号通讯录用户ID ..." />
+            <marker date="1481074050670" expanded="true" signature="103:128" ph=" @var string 企业号ID ..." />
+            <marker date="1481074050670" expanded="true" signature="153:175" ph=" @var int 随机时间戳 ..." />
+            <marker date="1481074050670" expanded="true" signature="199:224" ph=" 创建企业号被动响应明文XML生成器 ..." />
+            <marker date="1481074050670" expanded="true" signature="257:320" ph="{...}" />
+            <marker date="1481074050670" expanded="true" signature="326:397" ph=" 设置被动响应消息接收用户ID ..." />
+            <marker date="1481074050670" expanded="true" signature="435:484" ph="{...}" />
+            <marker date="1481074050670" expanded="true" signature="490:567" ph=" 生成Text被动响应XML字符串 ..." />
+            <marker date="1481074050670" expanded="true" signature="609:892" ph="{...}" />
+            <marker date="1481074050670" expanded="true" signature="629:884" ph="..." />
+            <marker date="1481074050670" expanded="true" signature="898:984" ph=" 生成Image被动响应XML字符串 ..." />
+            <marker date="1481074050670" expanded="true" signature="1027:1339" ph="{...}" />
+            <marker date="1481074050670" expanded="true" signature="1047:1331" ph="..." />
+            <marker date="1481074050670" expanded="true" signature="1345:1431" ph=" 生成Voice被动响应XML字符串 ..." />
+            <marker date="1481074050670" expanded="true" signature="1474:1784" ph="{...}" />
+            <marker date="1481074050670" expanded="true" signature="1494:1776" ph="..." />
+            <marker date="1481074050670" expanded="true" signature="1790:1943" ph=" 生成Video被动响应XML字符串 ..." />
+            <marker date="1481074050670" expanded="true" signature="2001:2410" ph="{...}" />
+            <marker date="1481074050670" expanded="true" signature="2021:2402" ph="..." />
+            <marker date="1481074050670" expanded="true" signature="2416:2530" ph=" 生成News(图文)被动响应XML字符串 ..." />
+            <marker date="1481074050670" expanded="true" signature="2573:3213" ph="{...}" />
+            <marker date="1481074050670" expanded="true" signature="2664:2895" ph="..." />
+            <marker date="1481074050670" expanded="true" signature="2684:2887" ph="..." />
+            <marker date="1481074050670" expanded="true" signature="2914:3205" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Message.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+          <folding>
+            <marker date="1481074056792" expanded="true" signature="57:5966" ph="{...}" />
+            <marker date="1481074056792" expanded="true" signature="78:105" ph=" @var array 无效的接收者列表 ..." />
+            <marker date="1481074056792" expanded="true" signature="131:162" ph=" @var string 企业号发送消息接口地址 ..." />
+            <marker date="1481074056792" expanded="true" signature="184:218" ph=" @var string 消息接收用户ID列表 |分割 ..." />
+            <marker date="1481074056792" expanded="true" signature="241:273" ph=" @var string 消息接收部门列表 |分割 ..." />
+            <marker date="1481074056792" expanded="true" signature="297:332" ph=" @var string 消息接收用户Tag列表 |分割 ..." />
+            <marker date="1481074056792" expanded="true" signature="354:382" ph=" @var int 消息接收企业号应用ID ..." />
+            <marker date="1481074056792" expanded="true" signature="412:437" ph=" @var int 是否安全加密发送 ..." />
+            <marker date="1481074056792" expanded="true" signature="468:551" ph=" 设置接收者用户(列表) ..." />
+            <marker date="1481074056792" expanded="true" signature="588:672" ph="{...}" />
+            <marker date="1481074056792" expanded="true" signature="678:760" ph=" 设置接收者部门(列表) ..." />
+            <marker date="1481074056792" expanded="true" signature="800:887" ph="{...}" />
+            <marker date="1481074056792" expanded="true" signature="893:976" ph=" 设置接收者标签(列表) ..." />
+            <marker date="1481074056792" expanded="true" signature="1012:1095" ph="{...}" />
+            <marker date="1481074056792" expanded="true" signature="1101:1154" ph=" 设置接收应用ID ..." />
+            <marker date="1481074056792" expanded="true" signature="1187:1251" ph="{...}" />
+            <marker date="1481074056792" expanded="true" signature="1257:1313" ph=" 是否安全加密消息 ..." />
+            <marker date="1481074056792" expanded="true" signature="1354:1425" ph="{...}" />
+            <marker date="1481074056792" expanded="true" signature="1431:1541" ph=" 发送文本消息 ..." />
+            <marker date="1481074056792" expanded="true" signature="1579:1769" ph="{...}" />
+            <marker date="1481074056792" expanded="true" signature="1679:1722" ph="..." />
+            <marker date="1481074056792" expanded="true" signature="1775:1890" ph=" 发送图片消息 ..." />
+            <marker date="1481074056792" expanded="true" signature="1929:2093" ph="{...}" />
+            <marker date="1481074056792" expanded="true" signature="2099:2214" ph=" 发送语音消息 ..." />
+            <marker date="1481074056792" expanded="true" signature="2253:2423" ph="{...}" />
+            <marker date="1481074056792" expanded="true" signature="2429:2603" ph=" 发送视频消息 ..." />
+            <marker date="1481074056792" expanded="true" signature="2657:2920" ph="{...}" />
+            <marker date="1481074056792" expanded="true" signature="2762:2873" ph="..." />
+            <marker date="1481074056792" expanded="true" signature="2926:3036" ph=" 发送文件 ..." />
+            <marker date="1481074056792" expanded="true" signature="3074:3242" ph="{...}" />
+            <marker date="1481074056792" expanded="true" signature="3248:3389" ph=" 发送News消息 ..." />
+            <marker date="1481074056792" expanded="true" signature="3434:3907" ph="{...}" />
+            <marker date="1481074056792" expanded="true" signature="3503:3716" ph="..." />
+            <marker date="1481074056792" expanded="true" signature="3528:3705" ph="..." />
+            <marker date="1481074056792" expanded="true" signature="3913:4124" ph=" 发送MpNews消息 ..." />
+            <marker date="1481074056792" expanded="true" signature="4161:4500" ph="{...}" />
+            <marker date="1481074056792" expanded="true" signature="4271:4388" ph="..." />
+            <marker date="1481074056792" expanded="true" signature="4396:4454" ph="..." />
+            <marker date="1481074056792" expanded="true" signature="4509:4553" ph=" 获取发送失败的数据 ..." />
+            <marker date="1481074056792" expanded="true" signature="4588:4631" ph="{...}" />
+            <marker date="1481074056792" expanded="true" signature="4637:4658" ph=" @return array ..." />
+            <marker date="1481074056792" expanded="true" signature="4689:5104" ph="{...}" />
+            <marker date="1481074056792" expanded="true" signature="4833:4876" ph="..." />
+            <marker date="1481074056792" expanded="true" signature="4895:5096" ph="..." />
+            <marker date="1481074056792" expanded="true" signature="5110:5154" ph=" @param $data ..." />
+            <marker date="1481074056792" expanded="true" signature="5191:5431" ph="{...}" />
+            <marker date="1481074056792" expanded="true" signature="5248:5402" ph="..." />
+            <marker date="1481074056792" expanded="true" signature="5284:5327" ph="..." />
+            <marker date="1481074056792" expanded="true" signature="5335:5392" ph="..." />
+            <marker date="1481074056792" expanded="true" signature="5437:5474" ph=" @param $json ..." />
+            <marker date="1481074056792" expanded="true" signature="5509:5964" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Manager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+          <folding>
+            <marker date="1481074063850" expanded="true" signature="50:366" ph="{...}" />
+            <marker date="1481074063850" expanded="true" signature="57:96" ph=" @var string 企业号权限组access_token值 ..." />
+            <marker date="1481074063850" expanded="true" signature="149:186" ph="{...}" />
+            <marker date="1481074063850" expanded="true" signature="192:281" ph=" 设置企业号权限组access_token值 ..." />
+            <marker date="1481074063850" expanded="true" signature="317:364" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exception.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+          <folding>
+            <marker date="1481074072669" expanded="true" signature="62:67" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+          <folding>
+            <marker date="1481074078837" expanded="true" signature="38:1037" ph="{...}" />
+            <marker date="1481074078837" expanded="true" signature="59:84" ph=" @var string 应用号ID ..." />
+            <marker date="1481074078837" expanded="true" signature="115:153" ph=" @var string 应用号权限组ACCESS_TOKEN ..." />
+            <marker date="1481074078837" expanded="true" signature="183:220" ph=" @var string 应用号客服ACCESS_TOKEN ..." />
+            <marker date="1481074078837" expanded="true" signature="305:357" ph="{...}" />
+            <marker date="1481074078837" expanded="true" signature="366:443" ph=" 设置企业号ID ..." />
+            <marker date="1481074078837" expanded="true" signature="484:552" ph="{...}" />
+            <marker date="1481074078837" expanded="true" signature="558:673" ph=" 获取应用号权限组的ACCESS_TOKEN ..." />
+            <marker date="1481074078837" expanded="true" signature="710:787" ph="{...}" />
+            <marker date="1481074078837" expanded="true" signature="793:909" ph=" 生成企业号授权URL ..." />
+            <marker date="1481074078837" expanded="true" signature="961:1035" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Manage/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding>
+            <marker date="1481074121034" expanded="true" signature="39:123" ph="..." />
+            <marker date="1481074121034" expanded="true" signature="128:145" ph=" 企业号通讯录用户管理类 ..." />
+            <marker date="1481074121034" expanded="true" signature="174:4013" ph="{...}" />
+            <marker date="1481074121034" expanded="true" signature="198:610" ph=" 创建企业号通讯录用户 ..." />
+            <marker date="1481074121034" expanded="true" signature="678:1233" ph="{...}" />
+            <marker date="1481074121034" expanded="true" signature="759:908" ph="..." />
+            <marker date="1481074121034" expanded="true" signature="938:1048" ph="..." />
+            <marker date="1481074121034" expanded="true" signature="949:1040" ph="..." />
+            <marker date="1481074121034" expanded="true" signature="1093:1163" ph="..." />
+            <marker date="1481074121034" expanded="true" signature="1242:1573" ph=" 更新用户信息 ..." />
+            <marker date="1481074121034" expanded="true" signature="1621:2158" ph="{...}" />
+            <marker date="1481074121034" expanded="true" signature="1726:1839" ph="..." />
+            <marker date="1481074121034" expanded="true" signature="1737:1831" ph="..." />
+            <marker date="1481074121034" expanded="true" signature="1878:1933" ph="..." />
+            <marker date="1481074121034" expanded="true" signature="1974:2094" ph="..." />
+            <marker date="1481074121034" expanded="true" signature="2167:2239" ph=" 删除用户 ..." />
+            <marker date="1481074121034" expanded="true" signature="2277:2371" ph="{...}" />
+            <marker date="1481074121034" expanded="true" signature="2380:2481" ph=" 批量删除用户 ..." />
+            <marker date="1481074121034" expanded="true" signature="2531:2688" ph="{...}" />
+            <marker date="1481074121034" expanded="true" signature="2697:2903" ph=" 获取用户信息 ..." />
+            <marker date="1481074121034" expanded="true" signature="2938:3012" ph="{...}" />
+            <marker date="1481074121034" expanded="true" signature="3021:3203" ph=" 获取部门成员 ..." />
+            <marker date="1481074121034" expanded="true" signature="3274:3408" ph="{...}" />
+            <marker date="1481074121034" expanded="true" signature="3302:3388" ph="..." />
+            <marker date="1481074121034" expanded="true" signature="3417:3601" ph=" 获取部门成员详情 ..." />
+            <marker date="1481074121034" expanded="true" signature="3666:3790" ph="{...}" />
+            <marker date="1481074121034" expanded="true" signature="3694:3773" ph="..." />
+            <marker date="1481074121034" expanded="true" signature="3799:3907" ph=" 根据code获取成员信息 ..." />
+            <marker date="1481074121034" expanded="true" signature="3941:4011" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Manage/Media.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <marker date="1481074144525" expanded="true" signature="39:140" ph="..." />
+            <marker date="1481074144525" expanded="true" signature="145:161" ph=" 企业号临时素材管理类 ..." />
+            <marker date="1481074144525" expanded="true" signature="191:1714" ph="{...}" />
+            <marker date="1481074144525" expanded="true" signature="215:296" ph=" 上传图片临时素材 ..." />
+            <marker date="1481074144525" expanded="true" signature="341:390" ph="{...}" />
+            <marker date="1481074144525" expanded="true" signature="399:480" ph=" 上传语音临时素材 ..." />
+            <marker date="1481074144525" expanded="true" signature="525:574" ph="{...}" />
+            <marker date="1481074144525" expanded="true" signature="583:664" ph=" 上传视频临时素材 ..." />
+            <marker date="1481074144525" expanded="true" signature="709:758" ph="{...}" />
+            <marker date="1481074144525" expanded="true" signature="767:848" ph=" 上传文件临时素材 ..." />
+            <marker date="1481074144525" expanded="true" signature="892:940" ph="{...}" />
+            <marker date="1481074144525" expanded="true" signature="949:1061" ph=" 获取临时素材文件 ..." />
+            <marker date="1481074144525" expanded="true" signature="1097:1498" ph="{...}" />
+            <marker date="1481074144525" expanded="true" signature="1279:1472" ph="..." />
+            <marker date="1481074144525" expanded="true" signature="1377:1462" ph="..." />
+            <marker date="1481074144525" expanded="true" signature="1542:1712" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Manage/Material.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding>
+            <marker date="1481074157915" expanded="true" signature="39:115" ph="..." />
+            <marker date="1481074157915" expanded="true" signature="121:137" ph=" 企业号永久素材管理类 ..." />
+            <marker date="1481074157915" expanded="true" signature="170:5208" ph="{...}" />
+            <marker date="1481074157915" expanded="true" signature="191:366" ph=" 添加永久企业号图文素材 ..." />
+            <marker date="1481074157915" expanded="true" signature="402:605" ph="{...}" />
+            <marker date="1481074157915" expanded="true" signature="611:683" ph=" 添加永久图片素材 ..." />
+            <marker date="1481074157915" expanded="true" signature="722:772" ph="{...}" />
+            <marker date="1481074157915" expanded="true" signature="778:850" ph=" 添加永久语音素材 ..." />
+            <marker date="1481074157915" expanded="true" signature="889:939" ph="{...}" />
+            <marker date="1481074157915" expanded="true" signature="945:1017" ph=" 添加永久视频素材 ..." />
+            <marker date="1481074157915" expanded="true" signature="1056:1106" ph="{...}" />
+            <marker date="1481074157915" expanded="true" signature="1112:1182" ph=" 添加永久文件 ..." />
+            <marker date="1481074157915" expanded="true" signature="1220:1269" ph="{...}" />
+            <marker date="1481074157915" expanded="true" signature="1275:1421" ph=" 获取企业号媒体素材 ..." />
+            <marker date="1481074157915" expanded="true" signature="1454:1963" ph="{...}" />
+            <marker date="1481074157915" expanded="true" signature="1654:1926" ph="..." />
+            <marker date="1481074157915" expanded="true" signature="1752:1843" ph="..." />
+            <marker date="1481074157915" expanded="true" signature="1851:1916" ph="..." />
+            <marker date="1481074157915" expanded="true" signature="1934:1959" ph="..." />
+            <marker date="1481074157915" expanded="true" signature="1969:2071" ph=" 删除媒体素材 ..." />
+            <marker date="1481074157915" expanded="true" signature="2107:2209" ph="{...}" />
+            <marker date="1481074157915" expanded="true" signature="2215:2455" ph=" 修改永久图文素材 ..." />
+            <marker date="1481074157915" expanded="true" signature="2503:2783" ph="{...}" />
+            <marker date="1481074157915" expanded="true" signature="2789:2857" ph=" 获取素材总数统计 ..." />
+            <marker date="1481074157915" expanded="true" signature="2887:2966" ph="{...}" />
+            <marker date="1481074157915" expanded="true" signature="2972:3112" ph=" 获取企业号图文素材列表 ..." />
+            <marker date="1481074157915" expanded="true" signature="3169:3237" ph="{...}" />
+            <marker date="1481074157915" expanded="true" signature="3243:3383" ph=" 获取企业号图片素材列表 ..." />
+            <marker date="1481074157915" expanded="true" signature="3439:3509" ph="{...}" />
+            <marker date="1481074157915" expanded="true" signature="3515:3652" ph=" 获取语音素材列表 ..." />
+            <marker date="1481074157915" expanded="true" signature="3708:3778" ph="{...}" />
+            <marker date="1481074157915" expanded="true" signature="3784:3921" ph=" 获取视频素材列表 ..." />
+            <marker date="1481074157915" expanded="true" signature="3977:4047" ph="{...}" />
+            <marker date="1481074157915" expanded="true" signature="4053:4193" ph=" 获取文件素材列表 ..." />
+            <marker date="1481074157915" expanded="true" signature="4248:4317" ph="{...}" />
+            <marker date="1481074157915" expanded="true" signature="4323:4412" ph=" 上传普通图文消息内的图片 ..." />
+            <marker date="1481074157915" expanded="true" signature="4452:4589" ph="{...}" />
+            <marker date="1481074157915" expanded="true" signature="4486:4576" ph="..." />
+            <marker date="1481074157915" expanded="true" signature="4595:4658" ph=" @param $realPath ..." />
+            <marker date="1481074157915" expanded="true" signature="4704:4833" ph="{...}" />
+            <marker date="1481074157915" expanded="true" signature="4839:4922" ph=" @param $type ..." />
+            <marker date="1481074157915" expanded="true" signature="4976:5206" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Manage/Depart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding>
+            <marker date="1481074174471" expanded="true" signature="39:123" ph="..." />
+            <marker date="1481074174471" expanded="true" signature="128:142" ph=" 企业号部门管理类 ..." />
+            <marker date="1481074174471" expanded="true" signature="173:1573" ph="{...}" />
+            <marker date="1481074174471" expanded="true" signature="194:374" ph=" 创建新部门 ..." />
+            <marker date="1481074174471" expanded="true" signature="442:686" ph="{...}" />
+            <marker date="1481074174471" expanded="true" signature="692:838" ph=" 更新部门信息 ..." />
+            <marker date="1481074174471" expanded="true" signature="883:1086" ph="{...}" />
+            <marker date="1481074174471" expanded="true" signature="1092:1169" ph=" 删除部门 ..." />
+            <marker date="1481074174471" expanded="true" signature="1200:1286" ph="{...}" />
+            <marker date="1481074174471" expanded="true" signature="1292:1454" ph=" 获取指定部门及其下的子部门 ..." />
+            <marker date="1481074174471" expanded="true" signature="1490:1571" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Kf/Internal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <marker date="1481074200203" expanded="true" signature="35:116" ph="..." />
+            <marker date="1481074200203" expanded="true" signature="121:133" ph=" 企业号客服类 ..." />
+            <marker date="1481074200203" expanded="true" signature="150:2836" ph="{...}" />
+            <marker date="1481074200203" expanded="true" signature="171:208" ph=" @var string 客服 ACCESS_TOKEN 值 ..." />
+            <marker date="1481074200203" expanded="true" signature="232:260" ph=" @var string 客服UserID ..." />
+            <marker date="1481074200203" expanded="true" signature="281:309" ph=" @var string 用户UserID ..." />
+            <marker date="1481074200203" expanded="true" signature="335:354" ph=" 创建企业号客服消息服务 ..." />
+            <marker date="1481074200203" expanded="true" signature="387:426" ph="{...}" />
+            <marker date="1481074200203" expanded="true" signature="432:522" ph=" 设置企业号客服 ACCESS_TOKEN ..." />
+            <marker date="1481074200203" expanded="true" signature="558:605" ph="{...}" />
+            <marker date="1481074200203" expanded="true" signature="611:678" ph=" 设置客服UserID ..." />
+            <marker date="1481074200203" expanded="true" signature="708:749" ph="{...}" />
+            <marker date="1481074200203" expanded="true" signature="755:834" ph=" 设置客服请求用户UserID ..." />
+            <marker date="1481074200203" expanded="true" signature="870:919" ph="{...}" />
+            <marker date="1481074200203" expanded="true" signature="925:1017" ph=" 接收文本类型的客服请求消息 ..." />
+            <marker date="1481074200203" expanded="true" signature="1058:1280" ph="{...}" />
+            <marker date="1481074200203" expanded="true" signature="1286:1383" ph=" 接收图片类型的客服请求消息 ..." />
+            <marker date="1481074200203" expanded="true" signature="1425:1650" ph="{...}" />
+            <marker date="1481074200203" expanded="true" signature="1656:1753" ph=" 接收文件类型的客服请求消息 ..." />
+            <marker date="1481074200203" expanded="true" signature="1794:2017" ph="{...}" />
+            <marker date="1481074200203" expanded="true" signature="2023:2120" ph=" 接收语音类型的客服请求消息 ..." />
+            <marker date="1481074200203" expanded="true" signature="2162:2387" ph="{...}" />
+            <marker date="1481074200203" expanded="true" signature="2393:2418" ph=" @return \stdClass ..." />
+            <marker date="1481074200203" expanded="true" signature="2456:2834" ph="{...}" />
+            <marker date="1481074200203" expanded="true" signature="2543:2618" ph="..." />
+            <marker date="1481074200203" expanded="true" signature="2651:2718" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Traits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding>
+            <marker date="1481074032256" expanded="true" signature="58:1397" ph="{...}" />
+            <marker date="1481074032256" expanded="true" signature="130:222" ph="{...}" />
+            <marker date="1481074032256" expanded="true" signature="161:218" ph="..." />
+            <marker date="1481074032256" expanded="true" signature="273:775" ph="{...}" />
+            <marker date="1481074032256" expanded="true" signature="304:771" ph="..." />
+            <marker date="1481074032256" expanded="true" signature="454:496" ph="..." />
+            <marker date="1481074032256" expanded="true" signature="529:583" ph="..." />
+            <marker date="1481074032256" expanded="true" signature="616:658" ph="..." />
+            <marker date="1481074032256" expanded="true" signature="689:745" ph="..." />
+            <marker date="1481074032256" expanded="true" signature="828:991" ph="{...}" />
+            <marker date="1481074032256" expanded="true" signature="1043:1226" ph="{...}" />
+            <marker date="1481074032256" expanded="true" signature="1068:1176" ph="..." />
+            <marker date="1481074032256" expanded="true" signature="1273:1395" ph="{...}" />
+            <marker date="1481074032256" expanded="true" signature="1329:1391" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <marker date="1481075489795" expanded="true" signature="0:516" ph="{&quot;name&quot;: &quot;gitphp/wx-corp-api&quot;...}" />
+            <marker date="1481075489795" expanded="true" signature="182:283" ph="[...]" />
+            <marker date="1481075489795" expanded="true" signature="192:277" ph="{&quot;name&quot;: &quot;PengWeifeng&quot;...}" />
+            <marker date="1481075489795" expanded="true" signature="300:364" ph="{&quot;php&quot;: &quot;&gt;=5.6.4&quot;...}" />
+            <marker date="1481075489795" expanded="true" signature="385:426" ph="{&quot;phpunit/phpunit&quot;: &quot;~4.0&quot;...}" />
+            <marker date="1481075489795" expanded="true" signature="444:514" ph="{...}" />
+            <marker date="1481075489795" expanded="true" signature="463:508" ph="{&quot;WXCorpApi\&quot;: &quot;src/&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Manage/Agent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding>
+            <element signature="e#35#57#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
