@@ -56,8 +56,8 @@ trait Traits
 
 	private static function throwException($res)
 	{
-		if (isset($res->errcode) && $res->errcode !== 0) {
-			throw new \Corp\Exception($res->errmsg, $res->errcode);
+		if (isset($res['errcode']) && $res['errcode'] !== 0) {
+			throw new Exception($res['errmsg'], $res['errcode']);
 		}
 	}
 }

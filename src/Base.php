@@ -6,15 +6,15 @@ class Base
 	use Traits;
 
 	/**
-	 * @var string 应用号ID
+	 * @var string 应用号 ID
 	 */
 	public static $corpId;
 	/**
-	 * @var string 应用号权限组ACCESS_TOKEN
+	 * @var string 应用号权限组 ACCESS_TOKEN
 	 */
 	public static $token;
 	/**
-	 * @var string 应用号客服ACCESS_TOKEN
+	 * @var string 应用号客服 ACCESS_TOKEN
 	 */
 	public static $kfToken;
 
